@@ -50,7 +50,7 @@ Add empty brackets `[ ]` for incomplete tasks and filled brackets `[x]` for comp
 > [!TIP]
 > Issues and pull requests can use task syntax for [conveying progress](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-tasklists).
 
-### :keyboard: Activity: Add ideas and goals to our morning plan
+### :keyboard: Activity: Add ideas and goals to our morning planning
 
 1. On the `start-blog` branch, open the `day-1.md` file for editing.
 
@@ -66,7 +66,7 @@ Add empty brackets `[ ]` for incomplete tasks and filled brackets `[x]` for comp
 
 1. In the top right, click the **Commit changes** button and commit directly to the `start-blog` branch.
 
-1. With our code block committed, Mona should be busy reviewing your work and preparing the next steps.
+1. With our task list committed, Mona should be busy reviewing your work and preparing the next steps.
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
