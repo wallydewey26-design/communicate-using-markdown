@@ -55,6 +55,10 @@ We welcome contributions to improve this learning resource! Please see our [Cont
 - **Permission Issues?** See our [Permission Quick Reference](PERMISSION_QUICK_REFERENCE.md) for common errors and solutions
 - **Step-by-Step Guide**: Check out our [Manual Pull Request Guide](MANUAL_PR_GUIDE.md) for detailed instructions
 
+### Documentation
+
+For a complete guide to all available documentation, see the [Documentation Index](DOCUMENTATION_INDEX.md).
+
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
