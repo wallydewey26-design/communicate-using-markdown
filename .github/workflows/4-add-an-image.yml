@@ -132,6 +132,26 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Create pull request automatically
+        run: |
+          # Check if PR already exists
+          PR_EXISTS=$(gh pr list --head start-blog --base main --json number --jq '.[0].number')
+          
+          if [ -z "$PR_EXISTS" ]; then
+            # Create the PR with a title and body
+            gh pr create \
+              --base main \
+              --head start-blog \
+              --title "Complete blog post with Markdown" \
+              --body "This pull request contains the completed blog post using Markdown formatting. Ready to merge! 🎉"
+            
+            echo "Pull request created successfully!"
+          else
+            echo "Pull request already exists (PR #$PR_EXISTS)"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Disable current workflow and enable next one
         run: |
           gh workflow disable "Step 4"
