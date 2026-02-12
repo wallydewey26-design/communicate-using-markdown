@@ -46,4 +46,14 @@ If the exercise isn't ready in 20 seconds:
 
 ---
 
+## Contributing
+
+We welcome contributions to improve this learning resource! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to get started.
+
+### Need Help Creating a Pull Request?
+
+If you encounter permission issues or need guidance on creating pull requests manually, check out our [Manual Pull Request Guide](MANUAL_PR_GUIDE.md).
+
+---
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
