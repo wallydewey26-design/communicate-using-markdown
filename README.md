@@ -52,7 +52,8 @@ We welcome contributions to improve this learning resource! Please see our [Cont
 
 ### Need Help Creating a Pull Request?
 
-If you encounter permission issues or need guidance on creating pull requests manually, check out our [Manual Pull Request Guide](MANUAL_PR_GUIDE.md).
+- **Permission Issues?** See our [Permission Quick Reference](PERMISSION_QUICK_REFERENCE.md) for common errors and solutions
+- **Step-by-Step Guide**: Check out our [Manual Pull Request Guide](MANUAL_PR_GUIDE.md) for detailed instructions
 
 ---
 

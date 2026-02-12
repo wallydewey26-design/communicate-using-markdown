@@ -48,6 +48,8 @@ We welcome suggestions for:
 
 ## Permission Issues
 
+> **Quick Reference**: For common permission errors and quick solutions, see [PERMISSION_QUICK_REFERENCE.md](./PERMISSION_QUICK_REFERENCE.md)
+
 ### I Don't Have Write Access to This Repository
 
 If you encounter permission issues when trying to contribute:
@@ -74,6 +76,7 @@ If you encounter permission issues when trying to contribute:
 If you're working with automated tools or bots that lack write permissions:
 
 - **Use the Manual Process**: Follow the [Manual Pull Request Guide](./MANUAL_PR_GUIDE.md)
+- **Quick Fixes**: Check [Permission Quick Reference](./PERMISSION_QUICK_REFERENCE.md) for common issues
 - **Request Access**: Contact the repository maintainers if you need direct access
 - **GitHub Apps**: Ensure GitHub Apps have proper permissions configured in repository settings
 
